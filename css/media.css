@@ -1,13 +1,13 @@
 @media only screen and (max-width: 1620px) {
     .box1_sect4 {
-        background-image: url(../images/bg_41_1.jpg);
+        background-image: url(/images/bg_41_1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 650px;
     }
 
     .box2_sect4 {
-        background-image: url(../images/bg_4_2_w656.jpg);
+        background-image: url(/images/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 650px;
@@ -17,14 +17,14 @@
 
 @media only screen and (max-width: 1368px) {
     .box1_sect4 {
-        background-image: url(../images/bg_41_1_w656.jpg);
+        background-image: url(/images/bg_41_1_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 500px;
     }
 
     .box2_sect4 {
-        background-image: url(../images/bg_4_2_w656.jpg);
+        background-image: url(/images/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 500px;
@@ -32,7 +32,7 @@
     }
 
     .sect1 {
-        background-image: url(../images/bg_1.jpg);
+        background-image: url(/images/bg_1.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -44,7 +44,7 @@
     }
 
     .sect10 {
-        background-image: url(../images/bg_10.jpg);
+        background-image: url(/images/bg_10.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -79,14 +79,14 @@
     }
 
     .box1_sect4 {
-        background-image: url(../images/bg_4_1_w500.jpg);
+        background-image: url(/images/bg_4_1_w500.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 450px;
     }
 
     .box2_sect4 {
-        background-image: url(../images/bg_4_2_w656.jpg);
+        background-image: url(/images/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 450px;
@@ -222,7 +222,7 @@
     }
 
     .box2_sect4 {
-        background-image: url(../images/bg_4_2_w656.jpg);
+        background-image: url(/images/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: auto;
@@ -294,7 +294,7 @@
     }
 
     .sect9 {
-        background-image: url(../images/bg_9.jpg);
+        background-image: url(/images/bg_9.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -389,7 +389,7 @@
     }
 
     .sect2 {
-        background-image: url(../images/bg_2.jpg);
+        background-image: url(/images/bg_2.jpg);
         background-repeat: repeat;
         background-position: top center;
         height: auto;
@@ -448,7 +448,7 @@
     }
 
     .sect6 {
-        background-image: url(../images/bg_6.jpg);
+        background-image: url(/images/bg_6.jpg);
         background-repeat: repeat;
         background-position: top center;
         height: auto;
