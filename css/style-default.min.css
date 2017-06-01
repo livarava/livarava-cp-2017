@@ -1,168 +1,164 @@
 
-
 .lz-circular-countdown-container {
-position:relative;
-top:50%;
--webkit-transform:translateY(-50%);
--moz-transform:translateY(-50%);
-transform:translateY(-50%)
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    transform: translateY(-50%)
 }
 
 .lz-circular-clock-item .lz-circular-inner {
-height:0;
-padding-bottom:100%;
-position:relative;
-width:100%
+    height: 0;
+    padding-bottom: 100%;
+    position: relative;
+    width: 100%
 }
 
 .lz-circular-clock-canvas {
-background-color:rgba(255,255,255,.1);
-border-radius:50%;
-height:0;
-padding-bottom:100%
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 50%;
+    height: 0;
+    padding-bottom: 100%
 }
 
 .lz-circular-text {
-color:#fff;
-font-size:30px;
-font-weight:300;
-position:absolute;
-top:15%;
-text-align:center;
-width:100%
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+    position: absolute;
+    top: 15%;
+    text-align: center;
+    width: 100%
 }
 
 .box_timer2 .lz-circular-text .lz-circular-val {
-font-size:34px;
-font-weight:500;
-font-family: 'Open Sans ',Arial,sans-serif;
-color: #626262;
+    font-size: 34px;
+    font-weight: 500;
+    font-family: 'Open Sans ', Arial, sans-serif;
+    color: #626262;
 }
 
 .box_timer2 .lz-circular-text .lz-circular-type-time {
-font-size:14px;
-color: #ccc;
-margin-top: -10px;
-}
-
-
-.lz-circular-text .lz-circular-val {
-font-size:34px;
-font-weight:500;
-font-family: 'Open Sans ',Arial,sans-serif;
-color: #fdee8c;
-}
-
-
-
-.lz-circular-text .lz-circular-type-time {
-font-size:14px;
-color: #fdee8c;
-margin-top: -10px;
-}
-
-@media (min-width:768px) and (max-width:991px) {
-.lz-circular-text {
-top:13%
+    font-size: 14px;
+    color: #ccc;
+    margin-top: -10px;
 }
 
 .lz-circular-text .lz-circular-val {
-font-size:25px
+    font-size: 34px;
+    font-weight: 500;
+    font-family: 'Open Sans ', Arial, sans-serif;
+    color: #fdee8c;
 }
 
 .lz-circular-text .lz-circular-type-time {
-font-size:12px
+    font-size: 14px;
+    color: #fdee8c;
+    margin-top: -10px;
 }
 
-.box_timer2 .lz-circular-text .lz-circular-val {
-font-size:25px;
+@media (min-width: 768px) and (max-width: 991px) {
+    .lz-circular-text {
+        top: 13%
+    }
 
-}
-}
+    .lz-circular-text .lz-circular-val {
+        font-size: 25px
+    }
 
-@media (max-width:767px) {
-.lz-circular-text .lz-circular-val {
-font-size:25px;
-font-weight:300;
-font-family: 'Open Sans ',Arial,sans-serif
-}
+    .lz-circular-text .lz-circular-type-time {
+        font-size: 12px
+    }
 
-.lz-circular-text .lz-circular-type-time {
-font-size:15px
-}
+    .box_timer2 .lz-circular-text .lz-circular-val {
+        font-size: 25px;
 
-.lz-circular-clock-canvas {
-visibility:hidden
+    }
 }
 
-.lz-col-item-title,.lz-col-item-title:hover {
-text-align:center
+@media (max-width: 767px) {
+    .lz-circular-text .lz-circular-val {
+        font-size: 25px;
+        font-weight: 300;
+        font-family: 'Open Sans ', Arial, sans-serif
+    }
+
+    .lz-circular-text .lz-circular-type-time {
+        font-size: 15px
+    }
+
+    .lz-circular-clock-canvas {
+        visibility: hidden
+    }
+
+    .lz-col-item-title, .lz-col-item-title:hover {
+        text-align: center
+    }
+
+    .lz-circular-text {
+        top: 25%;
+        font-size: 20px
+    }
 }
 
-.lz-circular-text {
-top:25%;
-font-size:20px
-}
-}
+@media (max-width: 480px) {
+    .lz-countdown-container .col-xs-3 {
+        width: 25%;
+        float: left;
+        margin: 0 auto
+    }
 
-@media (max-width:480px) {
-.lz-countdown-container .col-xs-3 {
-width:25%;
-float:left;
-margin:0 auto
-}
+    .lz-countdown-container .lz-cd-background {
+        border: none
+    }
 
-.lz-countdown-container .lz-cd-background {
-border:none
-}
+    .lz-countdown-container .lz-overlap {
+        font-size: 10px
+    }
 
-.lz-countdown-container .lz-overlap {
-font-size:10px
-}
+    .lz-countdown-container .lz-cd-number {
+        height: 50px
+    }
 
-.lz-countdown-container .lz-cd-number {
-height:50px
-}
+    .box_timer2 .lz-circular-text .lz-circular-val {
+        font-size: 20px;
+        margin-top: 20px;
 
-.box_timer2 .lz-circular-text .lz-circular-val {
-font-size:20px;
-margin-top: 20px;
+    }
 
-}
+    .box_timer2 .lz-circular-text .lz-circular-type-time {
+        font-size: 11px;
+        color: #ccc;
+        margin-top: -10px;
+    }
 
-.box_timer2 .lz-circular-text .lz-circular-type-time {
-font-size:11px;
-color: #ccc;
-margin-top: -10px;
-}
+    .lz-countdown-container .lz-cd-number .digit {
+        font-size: 25px
+    }
 
-.lz-countdown-container .lz-cd-number .digit {
-font-size:25px
-}
+    .lz-circular-text {
+        margin-top: -32px
+    }
 
-.lz-circular-text {
-margin-top:-32px
-}
+    .lz-circular-text .lz-circular-val {
+        font-size: 20px
+    }
 
-.lz-circular-text .lz-circular-val {
-font-size:20px
-}
+    .lz-circular-text .lz-circular-type-time {
+        font-size: 12px
+    }
 
-.lz-circular-text .lz-circular-type-time {
-font-size:12px
-}
+    .text1_sect4 {
+        font: 25px OpenSansBold, sans-serif;
+    }
 
-.text1_sect4 {
-    font: 25px OpenSansBold, sans-serif;
-}
+    .text2_sect4 {
+        font: 17px OpenSansBold, sans-serif;
 
-.text2_sect4 {
-    font: 17px OpenSansBold, sans-serif;
+    }
 
-}
-
-.text3_sect4 {
-    font: 15px OpenSansRegular, sans-serif;
-}
+    .text3_sect4 {
+        font: 15px OpenSansRegular, sans-serif;
+    }
 }
 
