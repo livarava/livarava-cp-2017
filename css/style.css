@@ -121,7 +121,7 @@
 }
 
 .sect1 {
-    background-image: url(/images/bg_1.jpg);
+    background-image: url(/img/bg_1.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 950px;
@@ -302,7 +302,7 @@ a.link_map:hover {
 }
 
 .sect2 {
-    background-image: url(/images/bg_2.jpg);
+    background-image: url(/img/bg_2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 263px;
@@ -337,7 +337,7 @@ a.link_map:hover {
 /*sect3*/
 
 .sect3 {
-    background-image: url(/images/bg_3.jpg);
+    background-image: url(/img/bg_3.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: auto;
@@ -376,14 +376,14 @@ a.link_map:hover {
 }
 
 .box1_sect4 {
-    background-image: url(/images/bg_4_1_w960.jpg);
+    background-image: url(/img/bg_4_1_w960.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 731px;
 }
 
 .box2_sect4 {
-    background-image: url(/images/bg_4_2.jpg);
+    background-image: url(/img/bg_4_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 731px;
@@ -437,7 +437,7 @@ a.link_map:hover {
 /*sect5*/
 
 .sect5 {
-    background-image: url(/images/bg_5.jpg);
+    background-image: url(/img/bg_5.jpg);
     background-repeat: repeat;
     background-position: top center;
 
@@ -461,7 +461,7 @@ a.link_map:hover {
 }
 
 .box_sect5 {
-    background-image: url(/images/bg_box_sect5.png);
+    background-image: url(/img/bg_box_sect5.png);
     background-repeat: no-repeat;
     height: 214px;
     padding: 20px 30px 0 50px;
@@ -515,7 +515,7 @@ a.link_map:hover {
 }
 
 .bg_afterparty {
-    background-image: url(/images/bg_afterparty.png);
+    background-image: url(/img/bg_afterparty.png);
     background-repeat: no-repeat;
     height: 214px;
 }
@@ -523,7 +523,7 @@ a.link_map:hover {
 /*sect6*/
 
 .sect6 {
-    background-image: url(/images/bg_6.jpg);
+    background-image: url(/img/bg_6.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 200px;
@@ -558,7 +558,7 @@ a.link_map:hover {
 /*sect7*/
 
 .sect7 {
-    background-image: url(/images/bg_7.jpg);
+    background-image: url(/img/bg_7.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: auto;
@@ -645,7 +645,7 @@ a.link_map:hover {
 }
 
 .sect8 {
-    background-image: url(/images/bg_8.jpg);
+    background-image: url(/img/bg_8.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 1044px;
@@ -755,7 +755,7 @@ a.link_map:hover {
 /*sect9*/
 
 .sect9 {
-    background-image: url(/images/bg_9.jpg);
+    background-image: url(/img/bg_9.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 773px;
@@ -832,7 +832,7 @@ a.link_map:hover {
 /*sect10*/
 
 .sect10 {
-    background-image: url(/images/bg_10.jpg);
+    background-image: url(/img/bg_10.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 1074px;
@@ -1339,7 +1339,7 @@ footer {
 }
 
 .block_afterparty {
-    background-image: url(/images/bg2_after.jpg);
+    background-image: url(/img/bg2_after.jpg);
     background-repeat: no-repeat;
 
     height: 214px;
