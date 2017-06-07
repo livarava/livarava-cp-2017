@@ -1,13 +1,13 @@
 @media only screen and (max-width: 1620px) {
     .box1_sect4 {
-        background-image: url(/img/bg_41_1.jpg);
+        background-image: url(../img/bg_41_1.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 650px;
     }
 
     .box2_sect4 {
-        background-image: url(/img/bg_4_2_w656.jpg);
+        background-image: url(../img/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 650px;
@@ -17,14 +17,14 @@
 
 @media only screen and (max-width: 1368px) {
     .box1_sect4 {
-        background-image: url(/img/bg_41_1_w656.jpg);
+        background-image: url(../img/bg_41_1_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 500px;
     }
 
     .box2_sect4 {
-        background-image: url(/img/bg_4_2_w656.jpg);
+        background-image: url(../img/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 500px;
@@ -32,7 +32,7 @@
     }
 
     .sect1 {
-        background-image: url(/img/bg_1.jpg);
+        background-image: url(../img/bg_1.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -44,7 +44,7 @@
     }
 
     .sect10 {
-        background-image: url(/img/bg_10.jpg);
+        background-image: url(../img/bg_10.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -79,14 +79,14 @@
     }
 
     .box1_sect4 {
-        background-image: url(/img/bg_4_1_w500.jpg);
+        background-image: url(../img/bg_4_1_w500.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 450px;
     }
 
     .box2_sect4 {
-        background-image: url(/img/bg_4_2_w656.jpg);
+        background-image: url(../img/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 450px;
@@ -178,6 +178,10 @@
         font: 40px OpenSansExtraBold, sans-serif;
     }
 
+    .text4 {
+        font: 30px OpenSansRegular, sans-serif;
+    }
+
     .text5 {
         font: 16px OpenSansRegular, sans-serif;
         margin-top: 40px;
@@ -222,7 +226,7 @@
     }
 
     .box2_sect4 {
-        background-image: url(/img/bg_4_2_w656.jpg);
+        background-image: url(../img/bg_4_2_w656.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: auto;
@@ -294,7 +298,7 @@
     }
 
     .sect9 {
-        background-image: url(/img/bg_9.jpg);
+        background-image: url(../img/bg_9.jpg);
         background-repeat: no-repeat;
         background-position: top center;
         height: auto;
@@ -363,6 +367,10 @@
         font: 30px OpenSansExtraBold, sans-serif;
     }
 
+    .text4 {
+        font: 26px OpenSansRegular, sans-serif;
+    }
+
     .text5 {
         font: 16px OpenSansRegular, sans-serif;
         margin-top: 40px;
@@ -389,7 +397,7 @@
     }
 
     .sect2 {
-        background-image: url(/img/bg_2.jpg);
+        background-image: url(../img/bg_2.jpg);
         background-repeat: repeat;
         background-position: top center;
         height: auto;
@@ -426,7 +434,7 @@
     }
 
     .text3_sect4 {
-        font: 16px OpenSansRegular, sans-serif;
+        font: 14px OpenSansRegular, sans-serif;
     }
 
     .btn_sect4 {
@@ -448,7 +456,7 @@
     }
 
     .sect6 {
-        background-image: url(/img/bg_6.jpg);
+        background-image: url(../img/bg_6.jpg);
         background-repeat: repeat;
         background-position: top center;
         height: auto;
@@ -636,6 +644,10 @@
         margin-top: 10px;
     }
 
+    .text4 {
+        font: 20px OpenSansRegular, sans-serif;
+    }
+
     .text5 {
         font: 14px OpenSansRegular, sans-serif;
         margin-top: 20px;
@@ -775,6 +787,10 @@
     .text3 {
         font: 20px OpenSansExtraBold, sans-serif;
         margin-top: 10px;
+    }
+
+    .text4 {
+        font: 20px OpenSansRegular, sans-serif;
     }
 
     .text1_row3_sect8 {

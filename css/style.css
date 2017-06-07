@@ -1,101 +1,101 @@
 @font-face {
     font-family: 'robotoblack';
-    src: url('/fonts/robotoblack.eot');
-    src: url('/fonts/robotoblack.eot') format('embedded-opentype'),
-    url('/fonts/robotoblack.woff2') format('woff2'),
-    url('/fonts/robotoblack.woff') format('woff'),
-    url('/fonts/robotoblack.ttf') format('truetype'),
-    url('/fonts/robotoblack.svg#robotoblack') format('svg');
+    src: url(../fonts/robotoblack.eot);
+    src: url(../fonts/robotoblack.eot) format('embedded-opentype'),
+    url(../fonts/robotoblack.woff2) format('woff2'),
+    url(../fonts/robotoblack.woff) format('woff'),
+    url(../fonts/robotoblack.ttf) format('truetype'),
+    url(../fonts/robotoblack.svg#robotoblack) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansLight';
-    src: url('/fonts/OpenSansLight.eot');
-    src: url('/fonts/OpenSansLight.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansLight.woff2') format('woff2'),
-    url('/fonts/OpenSansLight.woff') format('woff'),
-    url('/fonts/OpenSansLight.ttf') format('truetype'),
-    url('/fonts/OpenSansLight.svg#OpenSansLight') format('svg');
+    src: url(../fonts/OpenSansLight.eot);
+    src: url(../fonts/OpenSansLight.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansLight.woff2) format('woff2'),
+    url(../fonts/OpenSansLight.woff) format('woff'),
+    url(../fonts/OpenSansLight.ttf) format('truetype'),
+    url(../fonts/OpenSansLight.svg#OpenSansLight) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansSemibold';
-    src: url('/fonts/OpenSansSemibold.eot');
-    src: url('/fonts/OpenSansSemibold.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansSemibold.woff2') format('woff2'),
-    url('/fonts/OpenSansSemibold.woff') format('woff'),
-    url('/fonts/OpenSansSemibold.ttf') format('truetype'),
-    url('/fonts/OpenSansSemibold.svg#OpenSansSemibold') format('svg');
+    src: url(../fonts/OpenSansSemibold.eot);
+    src: url(../fonts/OpenSansSemibold.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansSemibold.woff2) format('woff2'),
+    url(../fonts/OpenSansSemibold.woff) format('woff'),
+    url(../fonts/OpenSansSemibold.ttf) format('truetype'),
+    url(../fonts/OpenSansSemibold.svg#OpenSansSemibold) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansBold';
-    src: url('/fonts/OpenSansBold.eot');
-    src: url('/fonts/OpenSansBold.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansBold.woff2') format('woff2'),
-    url('/fonts/OpenSansBold.woff') format('woff'),
-    url('/fonts/OpenSansBold.ttf') format('truetype'),
-    url('/fonts/OpenSansBold.svg#OpenSansBold') format('svg');
+    src: url(../fonts/OpenSansBold.eot);
+    src: url(../fonts/OpenSansBold.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansBold.woff2) format('woff2'),
+    url(../fonts/OpenSansBold.woff) format('woff'),
+    url(../fonts/OpenSansBold.ttf) format('truetype'),
+    url(../fonts/OpenSansBold.svg#OpenSansBold) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansItalic';
-    src: url('/fonts/OpenSansItalic.eot');
-    src: url('/fonts/OpenSansItalic.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansItalic.woff2') format('woff2'),
-    url('/fonts/OpenSansItalic.woff') format('woff'),
-    url('/fonts/OpenSansItalic.ttf') format('truetype'),
-    url('/fonts/OpenSansItalic.svg#OpenSansItalic') format('svg');
+    src: url(../fonts/OpenSansItalic.eot);
+    src: url(../fonts/OpenSansItalic.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansItalic.woff2) format('woff2'),
+    url(../fonts/OpenSansItalic.woff) format('woff'),
+    url(../fonts/OpenSansItalic.ttf) format('truetype'),
+    url(../fonts/OpenSansItalic.svg#OpenSansItalic) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansExtraBold';
-    src: url('/fonts/OpenSansExtraBold.eot');
-    src: url('/fonts/OpenSansExtraBold.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansExtraBold.woff2') format('woff2'),
-    url('/fonts/OpenSansExtraBold.woff') format('woff'),
-    url('/fonts/OpenSansExtraBold.ttf') format('truetype'),
-    url('/fonts/OpenSansExtraBold.svg#OpenSansExtraBold') format('svg');
+    src: url(../fonts/OpenSansExtraBold.eot);
+    src: url(../fonts/OpenSansExtraBold.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansExtraBold.woff2) format('woff2'),
+    url(../fonts/OpenSansExtraBold.woff) format('woff'),
+    url(../fonts/OpenSansExtraBold.ttf) format('truetype'),
+    url(../fonts/OpenSansExtraBold.svg#OpenSansExtraBold) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansRegular';
-    src: url('/fonts/OpenSansRegular.eot');
-    src: url('/fonts/OpenSansRegular.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansRegular.woff2') format('woff2'),
-    url('/fonts/OpenSansRegular.woff') format('woff'),
-    url('/fonts/OpenSansRegular.ttf') format('truetype'),
-    url('/fonts/OpenSansRegular.svg#OpenSansRegular') format('svg');
+    src: url(../fonts/OpenSansRegular.eot);
+    src: url(../fonts/OpenSansRegular.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansRegular.woff2) format('woff2'),
+    url(../fonts/OpenSansRegular.woff) format('woff'),
+    url(../fonts/OpenSansRegular.ttf) format('truetype'),
+    url(../fonts/OpenSansRegular.svg#OpenSansRegular) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansBoldItalic';
-    src: url('/fonts/OpenSansBoldItalic.eot');
-    src: url('/fonts/OpenSansBoldItalic.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansBoldItalic.woff2') format('woff2'),
-    url('/fonts/OpenSansBoldItalic.woff') format('woff'),
-    url('/fonts/OpenSansBoldItalic.ttf') format('truetype'),
-    url('/fonts/OpenSansBoldItalic.svg#OpenSansBoldItalic') format('svg');
+    src: url(../fonts/OpenSansBoldItalic.eot);
+    src: url(../fonts/OpenSansBoldItalic.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansBoldItalic.woff2) format('woff2'),
+    url(../fonts/OpenSansBoldItalic.woff) format('woff'),
+    url(../fonts/OpenSansBoldItalic.ttf) format('truetype'),
+    url(../fonts/OpenSansBoldItalic.svg#OpenSansBoldItalic) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansSemiboldItalic';
-    src: url('/fonts/OpenSansSemiboldItalic.eot');
-    src: url('/fonts/OpenSansSemiboldItalic.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansSemiboldItalic.woff2') format('woff2'),
-    url('/fonts/OpenSansSemiboldItalic.woff') format('woff'),
-    url('/fonts/OpenSansSemiboldItalic.ttf') format('truetype'),
-    url('/fonts/OpenSansSemiboldItalic.svg#OpenSansSemiboldItalic') format('svg');
+    src: url(../fonts/OpenSansSemiboldItalic.eot);
+    src: url(../fonts/OpenSansSemiboldItalic.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansSemiboldItalic.woff2) format('woff2'),
+    url(../fonts/OpenSansSemiboldItalic.woff) format('woff'),
+    url(../fonts/OpenSansSemiboldItalic.ttf) format('truetype'),
+    url(../fonts/OpenSansSemiboldItalic.svg#OpenSansSemiboldItalic) format('svg');
 }
 
 @font-face {
     font-family: 'OpenSansLightItalic';
-    src: url('/fonts/OpenSansLightItalic.eot');
-    src: url('/fonts/OpenSansLightItalic.eot') format('embedded-opentype'),
-    url('/fonts/OpenSansLightItalic.woff2') format('woff2'),
-    url('/fonts/OpenSansLightItalic.woff') format('woff'),
-    url('/fonts/OpenSansLightItalic.ttf') format('truetype'),
-    url('/fonts/OpenSansLightItalic.svg#OpenSansLightItalic') format('svg');
+    src: url(../fonts/OpenSansLightItalic.eot);
+    src: url(../fonts/OpenSansLightItalic.eot) format('embedded-opentype'),
+    url(../fonts/OpenSansLightItalic.woff2) format('woff2'),
+    url(../fonts/OpenSansLightItalic.woff) format('woff'),
+    url(../fonts/OpenSansLightItalic.ttf) format('truetype'),
+    url(../fonts/OpenSansLightItalic.svg#OpenSansLightItalic) format('svg');
 }
 
 .sticky {
@@ -121,7 +121,7 @@
 }
 
 .sect1 {
-    background-image: url(/img/bg_1.jpg);
+    background-image: url(../img/bg_1.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 950px;
@@ -218,7 +218,7 @@ header {
 }
 
 .box_main_sect1 {
-    margin-top: 140px;
+    margin-top: 80px;
 }
 
 .text2 {
@@ -236,6 +236,14 @@ header {
     text-transform: uppercase;
     line-height: 1.2;
     margin-top: 25px;
+}
+
+.text4 {
+    font: 30px OpenSansRegular, sans-serif;
+    color: #ccc;
+    text-transform: uppercase;
+    line-height: 1.2;
+    margin-top: 20px;
 }
 
 .text5 {
@@ -263,7 +271,7 @@ a.link_map:hover {
 }
 
 .block_link_top {
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .btn_top1 {
@@ -302,7 +310,7 @@ a.link_map:hover {
 }
 
 .sect2 {
-    background-image: url(/img/bg_2.jpg);
+    background-image: url(../img/bg_2.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 263px;
@@ -337,7 +345,7 @@ a.link_map:hover {
 /*sect3*/
 
 .sect3 {
-    background-image: url(/img/bg_3.jpg);
+    background-image: url(../img/bg_3.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: auto;
@@ -376,14 +384,14 @@ a.link_map:hover {
 }
 
 .box1_sect4 {
-    background-image: url(/img/bg_4_1_w960.jpg);
+    background-image: url(../img/bg_4_1_w960.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 731px;
 }
 
 .box2_sect4 {
-    background-image: url(/img/bg_4_2.jpg);
+    background-image: url(../img/bg_4_2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 731px;
@@ -411,7 +419,7 @@ a.link_map:hover {
 }
 
 .text3_sect4 {
-    font: 18px OpenSansRegular, sans-serif;
+    font: 16px OpenSansRegular, sans-serif;
     color: #3d3d3d;
     padding-right: 90px;
     line-height: 1.4;
@@ -437,7 +445,7 @@ a.link_map:hover {
 /*sect5*/
 
 .sect5 {
-    background-image: url(/img/bg_5.jpg);
+    background-image: url(../img/bg_5.jpg);
     background-repeat: repeat;
     background-position: top center;
 
@@ -461,7 +469,7 @@ a.link_map:hover {
 }
 
 .box_sect5 {
-    background-image: url(/img/bg_box_sect5.png);
+    background-image: url(../img/bg_box_sect5.png);
     background-repeat: no-repeat;
     height: 214px;
     padding: 20px 30px 0 50px;
@@ -515,7 +523,7 @@ a.link_map:hover {
 }
 
 .bg_afterparty {
-    background-image: url(/img/bg_afterparty.png);
+    background-image: url(../img/bg_afterparty.png);
     background-repeat: no-repeat;
     height: 214px;
 }
@@ -523,7 +531,7 @@ a.link_map:hover {
 /*sect6*/
 
 .sect6 {
-    background-image: url(/img/bg_6.jpg);
+    background-image: url(../img/bg_6.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 200px;
@@ -558,7 +566,7 @@ a.link_map:hover {
 /*sect7*/
 
 .sect7 {
-    background-image: url(/img/bg_7.jpg);
+    background-image: url(../img/bg_7.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: auto;
@@ -645,7 +653,7 @@ a.link_map:hover {
 }
 
 .sect8 {
-    background-image: url(/img/bg_8.jpg);
+    background-image: url(../img/bg_8.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 1044px;
@@ -722,7 +730,7 @@ a.link_map:hover {
     color: #fff;
     text-transform: uppercase;
     padding: 10px 20px;
-    margin-top: 40px;
+    margin-top: 20px;
     box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
     -webkit-box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.25);
@@ -755,7 +763,7 @@ a.link_map:hover {
 /*sect9*/
 
 .sect9 {
-    background-image: url(/img/bg_9.jpg);
+    background-image: url(../img/bg_9.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 773px;
@@ -832,7 +840,7 @@ a.link_map:hover {
 /*sect10*/
 
 .sect10 {
-    background-image: url(/img/bg_10.jpg);
+    background-image: url(../img/bg_10.jpg);
     background-repeat: no-repeat;
     background-position: top center;
     height: 1074px;
@@ -1140,7 +1148,7 @@ footer {
 }
 
 .schedule-item-block {
-    background: url('/img/progress-bg.png') repeat-x center center fixed #3e4651;
+    background: url(../img/progress-bg.png) repeat-x center center fixed #3e4651;
     min-height: 200px;
     overflow: hidden;
     display: none;
@@ -1157,7 +1165,7 @@ footer {
 }
 
 .schedule-item-bar {
-    background: url('/img/progress-point3.png') no-repeat center center;
+    background: url(../img/progress-point3.png) no-repeat center center;
     min-height: 200px;
     display: none;
 }
@@ -1169,12 +1177,12 @@ footer {
 }
 
 .schedule-item-bar-top {
-    background: url('/img/progress-point-top.png') no-repeat center top;
+    background: url(../img/progress-point-top.png) no-repeat center top;
     min-height: 80px;
 }
 
 .schedule-item-header .schedule-item-bar {
-    background: url('/img/progress-point-top.png') no-repeat center top;
+    background: url(../img/progress-point-top.png) no-repeat center top;
     min-height: 80px;
 }
 
@@ -1183,7 +1191,7 @@ footer {
 }
 
 .schedule-item-footer .schedule-item-bar {
-    background: url('/img/progress-point-bottom.png') no-repeat center bottom;
+    background: url(../img/progress-point-bottom.png) no-repeat center bottom;
     min-height: 80px;
 }
 
@@ -1195,7 +1203,7 @@ footer {
     padding: 30px;
     padding-top: 25px;
     padding-bottom: 25px;
-    background: url('/img/bgmask3.png') no-repeat center center #13BDC6;
+    background: url(../img/bgmask3.png) no-repeat center center #13BDC6;
     min-height: 160px;
     margin-top: 0px;
     margin-bottom: 20px;
@@ -1303,12 +1311,12 @@ footer {
 
 .schedule-tab-links li a:hover {
     text-decoration: none;
-    background: url('/img/bgmask-btn.png') no-repeat top left #3e4651;
+    background: url(../img/bgmask-btn.png) no-repeat top left #3e4651;
     color: #ffffff;
 }
 
 .schedule-tab-links li.active a {
-    background: url('/img/bgmask-btn.png') no-repeat top left #3e4651;
+    background: url(../img/bgmask-btn.png) no-repeat top left #3e4651;
     border-color: #3e4651;
     color: #ffffff;
     text-decoration: none;
@@ -1339,7 +1347,7 @@ footer {
 }
 
 .block_afterparty {
-    background-image: url(/img/bg2_after.jpg);
+    background-image: url(../img/bg2_after.jpg);
     background-repeat: no-repeat;
 
     height: 214px;
@@ -1351,4 +1359,19 @@ footer {
 
 .block_afterparty img {
     max-width: 100%;
+}
+
+#countdown {
+    font-size: 32px;
+    font-weight: bold;
+    color: #555;
+}
+
+.text2_bil2 {
+    font: 33px OpenSansBold, sans-serif;
+    text-transform: uppercase;
+}
+
+.btn-ticket-type {
+    width: 100%;
 }
