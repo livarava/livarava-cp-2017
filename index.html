@@ -846,11 +846,15 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
                 <p class="text1_sect6">Акція</p>
-                <p class="text2_sect6">Зареєструйся зараз і отримай знижку і подарунок від організаторів та партнерів
-                    події</p>
+                <p class="text2_sect6">Зареєструйся зараз і придбай повний квиток (конференція + after-party) зі знижкою
+                    за <strike>300 грн.</strike> 250 грн.</p>
 
             </div>
             <div class="col-md-6 col-sm-6 text-center">
+                <div class="text_countdown1">
+                    <div class="text_countdown1_caption">до акції залишилося</div>
+                    <div id="countdown2" class="text_countdown1_value"></div>
+                </div>
                 <a href="#tickets" target="_blank"
                    class="btn btn-default btn-ticket btn1_sect6">зареєструватися</a>
             </div>
@@ -858,6 +862,7 @@
         </div>
     </div>
 </section>
+
 <section class="sect7" id="sect7">
     <div class="container">
         <div class="row">
@@ -943,6 +948,7 @@
         </div>
     </div>
 </section>
+
 <section class="sect8" id="tickets">
     <div class="container">
         <div class="row">
@@ -1100,6 +1106,7 @@
         </div>
     </div>
 </section>
+
 <!--
 <section class="sect9" id="sect9">
     <div class="container">
@@ -1404,6 +1411,7 @@ Add this div in your DOM where you want the inline div to be inserted by Chatlio
 
         document.getElementById("countdown").innerHTML = innerText;
         document.getElementById("countdown1").innerHTML = innerText;
+        document.getElementById("countdown2").innerHTML = innerText;
 
         // If the count down is finished, write some text
         if (distance < 0) {
@@ -1411,6 +1419,7 @@ Add this div in your DOM where you want the inline div to be inserted by Chatlio
             innerText = "EXPIRED";
             document.getElementById("countdown").innerHTML = innerText;
             document.getElementById("countdown1").innerHTML = innerText;
+            document.getElementById("countdown2").innerHTML = innerText;
         }
     }, 1000);
 </script>
