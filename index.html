@@ -93,7 +93,7 @@
 
                 <p class="text2">5 елементів ефективного бізнесу</p>
                 <p class="text3">Технології &middot; Менеджмент &middot; Маркетинг &middot; Фінанси &middot; Право</p>
-                <p class="text4">Прокачай себе та вийди на новий рівень бізнесу</p>
+                <p class="text4">Прокачай себе та виведи бізнес на новий рівень</p>
 
                 <a href="#" class="link_map" title="дивитися на карті" data-toggle="modal" data-target="#myModal_map"><p
                         class="text5"><img src="img/icon_adr.png"/>Криворізький економічний інститут, вул.
@@ -114,11 +114,15 @@
         <div class="row">
             <div class="col-md-6 col-sm-6">
                 <p class="text1_sect6">Акція</p>
-                <p class="text2_sect6">Зареєструйся зараз і отримай знижку і подарунок від організаторів та партнерів
-                    події</p>
+                <p class="text2_sect6">Зареєструйся зараз і придбай повний квиток (конференція + after-party) зі знижкою
+                    за <strike>300 грн.</strike> 250 грн.</p>
 
             </div>
             <div class="col-md-6 col-sm-6 text-center">
+                <div class="text_countdown1">
+                    <div class="text_countdown1_caption">до акції залишилося</div>
+                    <div id="countdown1" class="text_countdown1_value"></div>
+                </div>
                 <a href="#tickets" target="_blank"
                    class="btn btn-default btn-ticket btn1_sect6">зареєструватися</a>
             </div>
@@ -337,7 +341,7 @@
                                             <div class="col-sm-2">
                                                 <div class="schedule-item-img">
                                                     <!--<img src="img/speakers/vitaliy.bryzgalov.jpg"-->
-                                                         <!--alt="Віталій Бризгалов" title="Віталій Бризгалов">-->
+                                                    <!--alt="Віталій Бризгалов" title="Віталій Бризгалов">-->
                                                 </div>
                                             </div>
                                             <!-- /col -->
@@ -565,7 +569,7 @@
                                             <div class="col-sm-2">
                                                 <div class="schedule-item-img">
                                                     <!--<img src="img/speakers/ksenia.semenova.shelevytska.jpg?v=2"-->
-                                                         <!--alt="Віталій Бризгалов" title="Віталій Бризгалов">-->
+                                                    <!--alt="Віталій Бризгалов" title="Віталій Бризгалов">-->
                                                 </div>
                                             </div>
                                             <!-- /col -->
@@ -1395,16 +1399,21 @@ Add this div in your DOM where you want the inline div to be inserted by Chatlio
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
         // Display the result in the element with id="demo"
-        document.getElementById("countdown").innerHTML = days + " днів " + hours + " годин "
-            + minutes + " хвилин " + seconds + " секунд ";
+        var innerText;
+        innerText = days + " днів " + hours + " годин " + minutes + " хвилин " + seconds + " секунд ";
+
+        document.getElementById("countdown").innerHTML = innerText;
+        document.getElementById("countdown1").innerHTML = innerText;
 
         // If the count down is finished, write some text
         if (distance < 0) {
             clearInterval(x);
-            document.getElementById("countdown").innerHTML = "EXPIRED";
+            innerText = "EXPIRED";
+            document.getElementById("countdown").innerHTML = innerText;
+            document.getElementById("countdown1").innerHTML = innerText;
         }
     }, 1000);
 </script>
 
-    </body>
+</body>
 </html>
