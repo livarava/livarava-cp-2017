@@ -94,7 +94,7 @@
     }
 
     .text1_sect4 {
-        font: 42px OpenSansBold, sans-serif;
+        font: 18px OpenSansBold, sans-serif;
     }
 
     .text2_sect4 {
@@ -103,7 +103,7 @@
     }
 
     .text3_sect4 {
-        font: 16px OpenSansRegular, sans-serif;
+        font: 12px OpenSansRegular, sans-serif;
         padding-right: 0;
 
     }
@@ -128,6 +128,10 @@
 }
 
 @media only screen and (max-width: 1150px) {
+    .text3 {
+        font: 26px OpenSansExtraBold, sans-serif;
+    }
+
     .box_n_m {
         display: none;
     }
@@ -175,7 +179,7 @@
     }
 
     .text3 {
-        font: 40px OpenSansExtraBold, sans-serif;
+        font: 30px OpenSansExtraBold, sans-serif;
     }
 
     .text4 {
